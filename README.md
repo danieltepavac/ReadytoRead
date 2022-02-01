@@ -1,6 +1,6 @@
 # ReadytoRead
 Usability Project
 
-Link to working document: https://docs.google.com/document/d/1D8X6yjewe25ir1RecKf8cJJdq_gyCBTD/edit
+Zoom Link for Scrum-Meetings: https://uni-regensburg.zoom.us/j/68911136889?pwd=V1lzd2s3WU1MallqNlY3TXBxc2x4dz09
 
 Google Drive: https://drive.google.com/drive/folders/1UrFsPHkiSk4ztQGjZJKPlytuioWcVK0g
