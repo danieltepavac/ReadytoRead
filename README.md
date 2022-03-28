@@ -5,3 +5,7 @@ Dieses Projekt wurde im Rahmen der Veranstaltung "Usability Engineering" erstell
 Dieses Repository enthält alle Dateien, die im Laufe der Projektdurchführung als relevant für den Prototypen angesehen wurden. Des Weiteren sind als Issues die Aufgaben markiert, die abgearbeitet wurden. Innerhalb der Issues befindet sich auch die Dokumentation der Scrum-Meetings. Git ermöglicht die Erstellung eines Kanban-Boards zur Hilfe der Orientierung. Diese Funktion wurde genutzt und ist ebenfalls aufrufbar. 
 
 Der Prototyp "ReadytoRead" wurde von Kerstin Mayerhofer, Daniel Tepavac und Jonas Ernst erstellt. 
+
+Link zu den Prototypen:
+Medium Fidelity:https://xd.adobe.com/view/f47c7fdb-ad8a-4638-b6a2-723d5c2f6afd-a12f/?fullscreen
+High Fidelity: https://xd.adobe.com/view/a4320238-92e1-457f-a37d-04c706a8fd4b-f161/?fullscreen
