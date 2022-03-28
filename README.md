@@ -1,13 +1,7 @@
 # ReadytoRead
-Usability Project
+*Usability Project*
 
-Dieses Projekt ist für....
+Dieses Projekt wurde im Rahmen der Veranstaltung "Usability Engineering" erstellt. Es handelt sich dabei um einen Prototypen einer Buchmanagement- und -organisationsapp, der von Low-Fidelity bis High-Fidelity entwickelt wurde.
+Dieses Repository enthält alle Dateien, die im Laufe der Projektdurchführung als relevant für den Prototypen angesehen wurden. Des Weiteren sind als Issues die Aufgaben markiert, die abgearbeitet wurden. Innerhalb der Issues befindet sich auch die Dokumentation der Scrum-Meetings. Git ermöglicht die Erstellung eines Kanban-Boards zur Hilfe der Orientierung. Diese Funktion wurde genutzt und ist ebenfalls aufrufbar. 
 
-Git-Kanban-Board: https://github.com/users/danieltepavac/projects/2
-
-Google Drive: https://drive.google.com/drive/folders/1UrFsPHkiSk4ztQGjZJKPlytuioWcVK0g
-
-Wöchentliche Meetings: https://uni-regensburg.zoom.us/j/68911136889?pwd=V1lzd2s3WU1MallqNlY3TXBxc2x4dz09
-
-Meeting Halbhuber: https://uni-regensburg.zoom.us/j/67606763760?pwd=YW9sQkxKSGJIZ09Hcll3YWZkZkhxUT09
-
+Der Prototyp "ReadytoRead" wurde von Kerstin Mayerhofer, Daniel Tepavac und Jonas Ernst erstellt. 
